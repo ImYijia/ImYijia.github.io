@@ -12,7 +12,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Sankey Diagram
-## Header 2
 ### file:///Users/yijiashi/Desktop/hw4.html
 
 - Bulleted
